@@ -1,0 +1,10 @@
+Reference,Value,Footprint
+C1,100nF,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+J1,Conn_01x02,Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal
+J3,Conn_01x03,Connector_JST:JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal
+"J4,J5,J6,J7",Conn_01x10,Connector_JST:JST_SH_SM10B-SRSS-TB_1x10-1MP_P1.00mm_Horizontal
+"R3,R5",12k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+"R4,R6",470,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+SW1,EN,Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A
+SW2,IO0,Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A
+U1,ESP32-WROOM-E,PCM_Espressif:ESP32-WROOM-32E
